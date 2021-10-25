@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natural History Museum online exihibit: Wildilife Photograher of The Year.
+title: Natural History Museum online exihibit: Wildilife Photograher of The Year
 ---
 
 ## Introduction/Backgraound
