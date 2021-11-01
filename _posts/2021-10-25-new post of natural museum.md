@@ -15,10 +15,16 @@ The mean page is dividied into rows with up to three photograghes. Each photogra
 <br> At the left corner side, there is a dialog icon，where users could tell their viewing experience and give their suggestions to the website designer to help improve content by completing the survey.<br> 
 
 ## Filter functionality
+It offers a clear way of filtering through a 'dialog icon' at the left edge. It offers 2 multiplied filters. One, the entire 1277 photos can be sorted by 'Date', 'Location', 'Species', 'Competition', 'Award' , 'Photographers' and so on. The other is the recommended filter which recommends '5 most popular combinations' and '3 combinations that got our attention'. 
+
+## Categories
+In the filters, the categories are very precise, detailed and clean, from the various perspectives.
 
 ## User Experience
-First, while browsering the overall page, the audience can scan photos with mixing style (with different sizes and main colour style). That adds interests to the whole exhibition. Meanwhile, users could smoothly and easily select the preferred photo sytle through the reduced version of the classification index sticked on the very left. The whole process, users may not find it difficult to search and enjoy the information or find it disorganised.
+First, while browsering the overall page, the audience can scan photos with mixing style (with different sizes and main colour style). That adds interests to the whole exhibition. Meanwhile, users could smoothly and easily select the preferred photo sytle through the reduced version of the classification index sticked on the very left. And they will not get lost, because they could feel free to browse the exhibit in the recommended filters. The whole process, users may not find it difficult to search and enjoy the information or find it disorganised.
 
 <br>After entering into the detailed page, it gives more detail to keep things interesting. Users can get all useful information clearly and freely discover other photograghes. If not, they could give their viewing feedback or suggestions by clicking the red dialog icon on the left corner side.<br/>
 
-## Categories
+<br>Finally, if the use wants to keep in touch with the updates of this exhibition, they could 'Sign up' at the bottom. That is very friendly and considerable function for users and a great way to get user's information with consent, which further also could be used as an ads channel.<br/>
+
+
