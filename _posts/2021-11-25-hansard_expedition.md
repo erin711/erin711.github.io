@@ -3,9 +3,9 @@ layout: post
 title: Hansard Expedition - Lecture 7 Homework
 ---
 ## Introduction
-https://hansard.parliament.uk/
-# What kinds of research could people do using the information in Hansard as a resource?
-<h1> What kinds of research could people do using the information in Hansard as a resource? </h1>
-<h2> What kinds of research could people do using the information in Hansard as a resource? </h2>
+<p>Hansard is the official record of UK parliamentary debates. Every word that has been said in every parliamentary debate since 1909 is recorded in Hansard. Hansard also covers many (but not all) debates from before then, dating back to 1803</p>
+<br><a href="https://hansard.parliament.uk/">Click here</a>, get access to the Hansard
 
-## How well does the Hansard website facilitate those kinds of research?
+### What kinds of research could people do using the information in Hansard as a resource?
+
+### How well does the Hansard website facilitate those kinds of research?
